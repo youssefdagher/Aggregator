@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aggregator", "Aggregator.csproj", "{9B28F37C-5598-4BE0-8493-51C878EAB2DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B28F37C-5598-4BE0-8493-51C878EAB2DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B28F37C-5598-4BE0-8493-51C878EAB2DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B28F37C-5598-4BE0-8493-51C878EAB2DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B28F37C-5598-4BE0-8493-51C878EAB2DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A867B7C-C437-4389-A571-0B1A608A9CE4}
+	EndGlobalSection
+EndGlobal
