@@ -1,0 +1,8 @@
+C:\Users\Elia\source\repos\Aggregator\obj\Debug\Aggregator.csproj.AssemblyReference.cache
+C:\Users\Elia\source\repos\Aggregator\obj\Debug\Aggregator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Elia\source\repos\Aggregator\obj\Debug\Aggregator.csproj.CoreCompileInputs.cache
+C:\Users\Elia\source\repos\Aggregator\bin\Debug\Aggregator.exe.config
+C:\Users\Elia\source\repos\Aggregator\bin\Debug\Aggregator.exe
+C:\Users\Elia\source\repos\Aggregator\bin\Debug\Aggregator.pdb
+C:\Users\Elia\source\repos\Aggregator\obj\Debug\Aggregator.exe
+C:\Users\Elia\source\repos\Aggregator\obj\Debug\Aggregator.pdb
